@@ -1,0 +1,5 @@
+num=int(input())
+x1=int(num//10e5)
+x2=int(num%10e5//10e2)
+x3=int(num%10e2)
+print(x1,x2,x3,sep='\n')

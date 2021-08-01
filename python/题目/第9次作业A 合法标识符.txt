@@ -1,0 +1,23 @@
+
+字符串有一个 isidentifier ()方法，功能是用来判断给定的字符串是否为合法的标识符（
+首字符为字母或下划线，其他字符为字母、下划线或数字），
+请自行实现此方法的相似功能， 定义一个函数 CheckId()，
+主模块中接收参数 s， 判断 s 是否为合法标识符， 输出判断结果的信息：
+（1）合法： 输出'Valid identifier.';
+（2）首字母不合法： 输出'Error. First char must be alphas or _.';
+（3）首字母合法其他字符不合法： 输出'Error. Other chars must be alphas number or _.'。
+输入
+输入一个字符串。
+输出
+输出判断结果信息。
+
+样例输入
+_valid_identifier
+样例输出
+Valid identifier.
+提示
+一定要注意输出的字符串，不能多也不能少，例如“Error.”后有一个空格。
+
+主模块中的语句：
+
+CheckId(input())

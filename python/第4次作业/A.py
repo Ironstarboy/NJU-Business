@@ -1,0 +1,17 @@
+'''
+题目描述
+判断输⼊的字符串是否是回⽂串，若是，则输出Yes，否则输出No
+输入
+rssr
+输出
+Yes
+样例输入
+rssr
+样例输出
+Yes
+'''
+s=input()
+if(s==''.join(reversed(s))):
+    print('Yes')
+else:
+    print('No')
