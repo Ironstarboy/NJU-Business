@@ -21,3 +21,5 @@
 ==TODO==
 
 商科相关各行业的介绍，职业发展路径，各tier的公司
+
+> 联系方式:wolovestars@gmail.com 欢迎加入你的贡献
