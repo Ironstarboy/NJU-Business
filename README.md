@@ -22,4 +22,6 @@
 
 商科相关各行业的介绍，职业发展路径，各tier的公司
 
-> 联系方式:wolovestars@gmail.com 欢迎加入你的贡献
+> 联系方式:wolovestars@gmail.com ，欢迎成为collaborator，加入你的贡献
+>
+> 在邮件中留下github邮箱或者用户名，就能一起完善仓库！
