@@ -25,3 +25,8 @@
 > 联系方式:wolovestars@gmail.com ，欢迎成为collaborator，加入你的贡献
 >
 > 在邮件中留下github邮箱或者用户名，就能一起完善仓库！
+
+# 下载
+
+1. 下载部分文件夹，使用[DownGit](https://yehonal.github.io/DownGit/#/home)
+2. 也可以使用GitZip for Github，一个chrome的插件
