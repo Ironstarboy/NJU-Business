@@ -91,3 +91,11 @@ git lfs clone git@github.com:Ironstarboy/Business.git
 [![image-20210712174221746](https://camo.githubusercontent.com/a379e7639cccae5163903600256694791e615ac2a014475f1864936f40fea47a/68747470733a2f2f6f73732e79646a7369722e636f6d2e636e2f696d672f696d6167652d32303231303731323137343232313734362e706e67)](https://camo.githubusercontent.com/a379e7639cccae5163903600256694791e615ac2a014475f1864936f40fea47a/68747470733a2f2f6f73732e79646a7369722e636f6d2e636e2f696d672f696d6167652d32303231303731323137343232313734362e706e67)
 
 我们期待着更多人的贡献！
+
+## 人员说明
+
+| 仓库负责人   | 联系方式              |
+| ------------ | --------------------- |
+| 丛进(2018)   | wolovestars@gmail.com |
+| 潘新宇(2019) | 保持神秘              |
+
