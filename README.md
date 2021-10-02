@@ -24,12 +24,6 @@
 
 商科相关各行业的介绍，职业发展路径，各tier的公司
 
-# 加入我们
-
-联系方式:wolovestars@gmail.com ，欢迎成为collaborator，加入你的贡献
-
-在邮件中留下github邮箱或者用户名，就能一起完善仓库！
-
 # 下载
 
 ==推荐用法== 使用git命令行进行操作
@@ -83,3 +77,17 @@ git lfs clone git@github.com:Ironstarboy/Business.git
 使用[DownGit](https://yehonal.github.io/DownGit/#/home)
 
 也可以使用GitZip for Github，一个chrome的插件
+
+# 如何贡献
+
+> [摘录来源](https://github.com/NJU-SE-15-share-review/professional-class)
+
+请先 `fork` 本仓库到你自己的 `GitHub`账号下，并对你 `fork` 的项目进行编辑，而后`add` `commit` `push` 三部曲。接下来，请对我们的主仓库发起`pull request`，并详细说明你的工作。我们会看到你所做的更改并作审定。如果审定无问题，我们便会将你的更改`merge`入主分支中。我们建议您先简要了解 `git` 的工作流与 `pull request`相关机制。下面也有一些参考资料。
+
+- GitHub文档 https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+- https://www.jianshu.com/p/704c0561d3ff
+- https://blog.csdn.net/shengzhu1/article/details/69667169
+
+[![image-20210712174221746](https://camo.githubusercontent.com/a379e7639cccae5163903600256694791e615ac2a014475f1864936f40fea47a/68747470733a2f2f6f73732e79646a7369722e636f6d2e636e2f696d672f696d6167652d32303231303731323137343232313734362e706e67)](https://camo.githubusercontent.com/a379e7639cccae5163903600256694791e615ac2a014475f1864936f40fea47a/68747470733a2f2f6f73732e79646a7369722e636f6d2e636e2f696d672f696d6167652d32303231303731323137343232313734362e706e67)
+
+我们期待着更多人的贡献！
