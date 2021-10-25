@@ -19,7 +19,7 @@ true
 # include <math.h>
 int main(){
     //读取
-    const int size=10;
+    const int size=100;
     char num[size];
     int index=0;
     while(1){
@@ -43,7 +43,7 @@ int main(){
             flag=0;
             break;
         }
-        if(n%(num[i]-'0')==0){
+        if(n%(num[i]-'0')!=0){
             flag=0;
             break;
         }
