@@ -45,22 +45,22 @@ git lfs install
 
 ## 2. 将本仓库clone到本地。
 
-在希望保存本仓库的地方，输入如下命令：
+在希望保存本仓库的空白目录，输入如下命令：
 
 ```
-git  clone https://github.com/Ironstarboy/Business.git
+git clone https://github.com/Ironstarboy/NJU-Business.git
 ```
 
 或者
 
 ~~~
-git  clone git@github.com:Ironstarboy/Business.git
+git clone git@github.com:Ironstarboy/NJU-Business.git
 ~~~
 
 若失败，试试在clone之前加lfs ，即↓
 
 ~~~
-git lfs clone git@github.com:Ironstarboy/Business.git
+git lfs clone git@github.com:Ironstarboy/NJU-Business.git
 ~~~
 
 
