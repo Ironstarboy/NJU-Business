@@ -1,4 +1,6 @@
-[软件学院概率论笔记](https://www.cnblogs.com/Jyaoushingan/p/14197432.html)来源：NJU软件学院邪王真眼
+
+
+# 商学院概率论与数理统计
 
 教材和练习题、课本习题详细过程
 
@@ -11,6 +13,8 @@ https://url63.ctfile.com/f/33954963-518065685-4df45d
 （访问密码：nju666）
 
 # 软件学院数据科学
+
+[软件学院概率论笔记](https://www.cnblogs.com/Jyaoushingan/p/14197432.html)来源：NJU软件学院邪王真眼
 
 https://url63.ctfile.com/f/33954963-518988751-44c4bd
 （访问密码：nju666）
