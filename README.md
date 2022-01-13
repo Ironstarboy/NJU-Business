@@ -1,4 +1,8 @@
-欢迎点击右上角的☆；觉得不错的话，也可以三连！watch, star ,fork😋
+欢迎点击右上角的star☆😋
+
+![github stars](https://img.shields.io/github/stars/Ironstarboy/NJU-Business.svg)![forks](https://img.shields.io/github/forks/Ironstarboy/NJU-Business.svg)
+
+
 
 # 项目说明
 
@@ -12,10 +16,8 @@
 
 4. 偏互联网方向：python，商业数据分析，SQL，数据挖掘，需求与商业模式创新、PM所需的相关资料
 5. 自主创业：创业学与创新管理、从天使投资人角度看创业
-6. 转码：计算系统基础、数据结构、cpp、java、离散数学、数据库
-7. 创业类比赛需要的BP资料整理
-
-
+6. 转码：计算系统基础、数据结构、cpp、java、离散数学、数据库、计算机网络
+7. 创业类比赛需要的商业计划书资料整理
 
 致力于打造成类似于[NJU SE](https://github.com/NJU-SE-15-share-review/professional-class)的开源项目，后续有可能更新NJU商院考试试卷回忆与知识点整理
 
